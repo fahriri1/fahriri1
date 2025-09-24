@@ -22,7 +22,7 @@
 ### ⚡ About Me  
 - 🔧 Passionate in **hardware design, embedded systems, and IoT**  
 - 🤖 Love to explore **robotics, automation, and AI integration**  
-- 📡 Experienced in **Arduino, ESP32, Raspberry Pi, LoRa, and wireless systems**  
+- 📡 Experienced in **Arduino, ESP32, Raspberry Pi, LoRa, and wireless system**  
 
 ---
 
